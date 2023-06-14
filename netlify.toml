@@ -1,2 +1,2 @@
 [build]
-  command = "yarn add node-sass && yarn install"
+  command = "npm install node-sass && npm install"
