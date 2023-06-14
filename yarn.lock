@@ -10190,7 +10190,7 @@
   dependencies:
     "postcss" "^7.0.2"
 
-"postcss-safe-parser@^5.0.2", "postcss-safe-parser@5.0.2":
+"postcss-safe-parser@5.0.2":
   "integrity" "sha512-jDUfCPJbKOABhwpUKcqCVbbXiloe/QXMcbJ6Iipf3sDIihEzTqRCeMBfRaOHxhBuTYqtASrI1KJWxzztZU4qUQ=="
   "resolved" "https://registry.npmjs.org/postcss-safe-parser/-/postcss-safe-parser-5.0.2.tgz"
   "version" "5.0.2"
