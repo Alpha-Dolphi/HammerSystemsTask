@@ -14,7 +14,7 @@ yarn install
 yarn start
 ```
 
-### ✨ [Live Demo](https://main--creative-narwhal-ed2705.netlify.app/app)
+### ✨ [Live Demo](https://main--creative-narwhal-ed2705.netlify.app)
 
 ## Часть 1
 
